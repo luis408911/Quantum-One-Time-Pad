@@ -47,7 +47,10 @@ This project provided hands-on experience in:
    - Second Hadamard gates to decode
    - Measurement gates on all qubits
 
-OR feel free to request the **exported Quirk circuit file** to load it instantly!
+### **Direct Circuit Link:**
+[View My Completed Circuit](YOUR_EXPORTED_LINK_HERE)
+
+Just replace `file:///Users/josezaragoza/Downloads/Quirk%20with%20Circuit%20-%204%20wires,%2013%20ops,%20HHXDetectControlReset%E2%97%A6X%E2%80%A6.html#circuit=%7B%22cols%22%3A%5B%5B%22H%22%2C%22H%22%2C%22XDetectControlReset%22%5D%2C%5B%22%E2%97%A6%22%2C1%2C%22X%22%5D%2C%5B%22H%22%2C%22H%22%5D%2C%5B%22%7C0%E2%9F%A9%E2%9F%A80%7C%22%2C%22%E2%97%A6%22%5D%2C%5B1%2C%22%7C0%E2%9F%A9%E2%9F%A80%7C%22%2C%22%E2%97%A6%22%5D%2C%5B1%2C1%2C%22%7C0%E2%9F%A9%E2%9F%A80%7C%22%2C%22%E2%97%A6%22%5D%5D%7D` with the exported URL from Quirk!
 
 ---
 
